@@ -8,4 +8,3 @@ https://user-images.githubusercontent.com/28604639/146926105-000bdd77-244a-4202-
 
 
 For more details, check my [blog post](https://sbulav.github.io/til/til-adding-video-to-github-markdown/)
-
